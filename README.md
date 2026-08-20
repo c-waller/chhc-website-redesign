@@ -5,9 +5,9 @@ It's built with **React**, **Next.js**, **TypeScript**, and **CSS Modules**, wit
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Site
 
-Check out the live demo here: [deployment](https://chhc-demo.vercel.app/)
+Check out the live site here: [deployment](https://chhc-us.com/)
 
 ## Figma Snippet
 
@@ -22,11 +22,6 @@ Check out the live demo here: [deployment](https://chhc-demo.vercel.app/)
 
 ![Demo GIF](https://github.com/c-waller/chhc-website-redesign-demo/blob/main/AboutResponsivness-ezgif.com-video-to-gif-converter.gif?raw=true)
 
-
-
-> **Note:** This is a demo version; some pages are still in progress and layout is not final.
-
----
 
 ## 🛠 Technologies Used
 
@@ -45,8 +40,3 @@ Check out the live demo here: [deployment](https://chhc-demo.vercel.app/)
 - Components designed for reusability and scalability
 
 ---
-
-## ⚠️ Notes
-
-- Services and Contact pages are under development
-- Placeholder images used for demonstration purposes
